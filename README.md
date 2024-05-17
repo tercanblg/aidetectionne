@@ -1,6 +1,4 @@
-
-
-qxresearch AI is a research lab focused on Machine Learning, Deep Learning, and Computer Vision. Our team aspires to make discoveries that hold a broad impact, and at the core of our approach lies the sharing of our findings in the field. Our researchers regularly publish in academic journals, release projects as open source on GitHub, and apply these findings in practical applications.
+we wiII focused on Machine Learning, Deep Learning, and Computer Vision. Our team aspires to make discoveries that hold a broad impact, and at the core of our approach lies the sharing of our findings in the field. Our researchers regularly publish in academic journals, release projects as open source on GitHub, and apply these findings in practical applications.
 
 
 
